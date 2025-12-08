@@ -1,4 +1,6 @@
 # TOMUS
 Reliability and comparative accuracy of AI-supported muscle segmentations by radiography students.
 
-Please note that this repository will be populated within no later than three weeks from publication (Nov 26th, 2025)
+Dec 8th 2025 - Populated TOMUS with relevant files.
+All paths and pseudonyms are abbreviated to further enhance anonymity.
+For questions please contact Hendrik Erenstein.
